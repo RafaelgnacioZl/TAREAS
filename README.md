@@ -1,1 +1,2 @@
 # TAREAS
+git init
